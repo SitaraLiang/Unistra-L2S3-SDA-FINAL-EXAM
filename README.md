@@ -10,7 +10,7 @@
 
 ## Launch 🔌
 ```
-% git@github.com:SitaraLiang/Unistra-L2S3-SDA-FINAL-EXAM.git
+% git clone git@github.com:SitaraLiang/Unistra-L2S3-SDA-FINAL-EXAM.git
 ```
 
 
